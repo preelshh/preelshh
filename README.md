@@ -8,7 +8,7 @@ Over the past three years, I've dedicated myself to mastering coding, with a foc
 
 * 🌍  I'm based in United States, Los Angeles
 * ✉️  You can contact me at [priyalsh@g.ucla.edu](mailto:priyalsh@g.ucla.edu)
-* 🧠  I'm learning Tableau
+* 🧠  I'm learning C++
 
 ### Skills
 
