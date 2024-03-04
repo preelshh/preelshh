@@ -4,7 +4,8 @@ Hi 👋 My name is Priyal Sharma
 UCLA Statistics and Data Science Major with a minor in Data Engineering
 -----------------------------------------------------------------------
 
-Over the past three years, I've dedicated myself to mastering coding, with a focus on Python and its diverse set of libraries such as Pandas, Numpy, Seaborn, and Scikit-Learn. Additionally, I've cultivated proficiency in SQL and R, rounding out my toolkit for cleaning data, data analysis, and machine learning. My coding journey extends beyond mere technical skills; it's a passion that fuels my commitment to transforming raw data into meaningful narratives.
+Over the past three years, I've dedicated myself to mastering coding, with a focus on Python and its diverse set of libraries such as Pandas, Numpy, Seaborn, and Scikit-Learn. Additionally, I've cultivated proficiency in SQL and R, rounding out my toolkit for cleaning data, data analysis, and machine learning. 
+My coding journey extends beyond mere technical skills; it's a passion that fuels my commitment to transforming raw data into meaningful narratives.
 
 * 🌍  I'm based in United States, Los Angeles
 * ✉️  You can contact me at [priyalsh@g.ucla.edu](mailto:priyalsh@g.ucla.edu)
