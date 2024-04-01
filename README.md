@@ -6,6 +6,8 @@ UCLA Statistics and Data Science Major with a minor in Data Engineering
 
 I've dedicated the past three years to mastering Python, focusing on libraries like Pandas, Numpy, Seaborn, and Scikit-Learn. Additionally, I'm proficient in SQL and R, rounding out my toolkit for data cleaning, data analysis, and machine learning. Alongside this, I have experience in C++, exploring fundamental computer science principles. 
 
+My main passion for this field is centered in my love for math - particularly multivariable calculus and linear algbera. I am especially drawn to machine learning, and how it utilizes the beauty of mathematics alongside intricate algorithims to maniuplate data into an insightful tool for its users.
+
 My coding journey extends beyond mere technical skills; it's a passion that fuels my commitment to transforming raw data into meaningful narratives.
 
 * 🌍  I'm based in United States, Los Angeles
