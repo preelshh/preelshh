@@ -10,7 +10,7 @@ My main passion for this field is centered in my love for math - particularly mu
 
 My coding journey extends beyond mere technical skills; it's a passion that fuels my commitment to transforming raw data into meaningful narratives.
 
-* 🌍  I'm based in California, San Francisco
+* 🌍  I'm based in San Francisco, CA
 * ✉️  You can contact me at [priyalsh@g.ucla.edu](mailto:priyalsh@g.ucla.edu)
 * 🧠  I'm learning C++
 
