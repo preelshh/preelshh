@@ -8,8 +8,6 @@ I've dedicated the past three years to mastering Python, focusing on libraries l
 
 My main passion for this field is centered in my love for math - particularly multivariable calculus and linear algbera. I am especially drawn to machine learning, and how it harnesses mathematics alongside intricate algorithims to maniuplate data into an insightful tool for its users.
 
-My coding journey extends beyond mere technical skills; it's a passion that fuels my commitment to transforming raw data into meaningful narratives.
-
 * 🌍  I'm based in San Francisco, CA
 * ✉️  You can contact me at [priyalsh@g.ucla.edu](mailto:priyalsh@g.ucla.edu)
 * 🧠  I'm learning C++
