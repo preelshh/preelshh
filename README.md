@@ -4,13 +4,6 @@ Hi 👋 My name is Priyal Sharma
 UCLA Statistics and Data Science Major with a minor in Data Engineering
 -----------------------------------------------------------------------
 
-I've dedicated the past three years to mastering Python, focusing on libraries like Pandas, Numpy, Seaborn, and Scikit-Learn. Additionally, I'm proficient in SQL and R, rounding out my toolkit for data cleaning, data analysis, and machine learning. Alongside this, I have experience in C++, exploring fundamental computer science principles. 
-
-My main passion for this field is centered in my love for math - particularly multivariable calculus and linear algbera. I am especially drawn to machine learning, and how it harnesses mathematics alongside intricate algorithims to maniuplate data into an insightful tool for its users.
-
-* 🌍  I'm based in San Francisco, CA
-* ✉️  You can contact me at [priyalsh@g.ucla.edu](mailto:priyalsh@g.ucla.edu)
-* 🧠  I'm learning C++
 
 ### Skills
 
