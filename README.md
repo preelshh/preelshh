@@ -1,7 +1,4 @@
-Hi 👋 My name is Priyal Sharma
-==============================
 
-UCLA Statistics and Data Science Major with a minor in Data Engineering
 
 ### Skills
 
