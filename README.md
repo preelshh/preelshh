@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm from the Bay Area and I'm studying hard at UCLA. I like math and machine learning, being creative with software development, and daydreaming about making my own indie-rpg videogame.</p>
+<p align="left">I'm from the Bay Area and I'm studying hard at UCLA. I like math and machine learning, being creative with software development, and daydreaming about making my own indie videogame.</p>
 
 ###
 
