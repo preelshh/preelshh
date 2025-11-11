@@ -3,6 +3,7 @@
 ###
 
 <p align="left">I'm from the Bay Area and I'm currently a junior at UCLA. I like studying the links between math and machine learning, and being creative with software development - ultimately, shaping the tools that move our world forward. 
+
 ###
 
 <h2 align="left">I code with</h2>
