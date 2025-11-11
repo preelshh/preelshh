@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm from the Bay Area and I'm currently a junior at UCLA. I like studying the links between math and machine learning, being creative with software development, and daydreaming about making my own indie videogame.</p>
+<p align="left">I'm from the Bay Area and I'm currently a junior at UCLA. I like studying the links between math and machine learning, and being creative with software development - ultimately, shaping the tools that move our world forward. /p>
 
 ###
 
