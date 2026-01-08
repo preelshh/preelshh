@@ -3,7 +3,7 @@
 ###
 
 <p align="left">I'm from the Bay Area and I'm currently a junior at UCLA. I like studying the links between math and machine learning.
-###
+
 
 <h2 align="left">I code with</h2>
 
