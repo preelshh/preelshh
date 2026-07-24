@@ -2,7 +2,6 @@
 
 ###
 
-<p align="left">I'm from the Bay Area and I'm currently a junior at UCLA. I like studying the links between math, science and machine learning.
-
+<p align="left">I'm from the Bay Area and I'm currently a junior at UCLA. I like math and ML.
 
 ###
